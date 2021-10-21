@@ -8,6 +8,7 @@
 1. Make a copy of the `.env.sample` file as `.env`
 2. Run the following commands in the root dir:
 ```shell
+$ ./mvnw package && java -jar target/smartport-0.0.1-SNAPSHOT.jar
 $ docker build -t springio/gs-spring-boot-docker .
 $ docker-compose up -d
 ```
