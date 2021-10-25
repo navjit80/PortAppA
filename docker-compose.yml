@@ -19,7 +19,7 @@ services:
     restart: always
     command: --default-authentication-plugin=mysql_native_password
     healthcheck:
-      test: [ "CMD", "mysql", "-h", "localhost", "-P", "3306", "-u", "root", "--password=${MYSQL_ROOT_PASSWORD}", "-e", "select 1", "spring" ]
+      test: [ "CMD", "mysql", "-h", "localhost", "-P", "3306", "-u", "root", "--password=${MYSQL_ROOT_PASSWORD}", "-e", "select 1", "portapp" ]
       interval: 1s
       timeout: 3s
       retries: 30

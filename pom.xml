@@ -10,6 +10,7 @@
     </parent>
     <groupId>my.solent</groupId>
     <artifactId>smartport</artifactId>
+    <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>smartport</name>
     <description>smartport</description>
@@ -34,6 +35,9 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <finalName>sample</finalName>
+                </configuration>
             </plugin>
         </plugins>
     </build>
