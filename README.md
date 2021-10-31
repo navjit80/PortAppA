@@ -6,7 +6,7 @@
 - Team members
 
 ## Local set up
-* [local branch](https://github.com/com619-2021/PortAppA/tree/local) – experimental environment
+* [local branch](https://github.com/com619-2021/PortAppA/tree/local) – experimental application environment
 
 ## Tools and Documentation
 - [Team Appointments](https://docs.google.com/spreadsheets/d/1pf8sb0GZlENk5aM6NbGYe3WEL0tovPUmKz8HF5oiwP4/edit?usp=sharing)
