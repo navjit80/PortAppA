@@ -1,19 +1,7 @@
-# Port App A
+# Experimental
 
-## Table of Contents
-- Local set up
-- Tools and Documentation
-- Team members
+This folder is for group experiments other than the main project
 
-## Local set up
-* [local branch](https://github.com/com619-2021/PortAppA/tree/local) – experimental application environment
+[user-project](../experimental/user-project) contains an example user/party managment app with a swagger api
 
-## Tools and Documentation
-- [Team Appointments](https://docs.google.com/spreadsheets/d/1pf8sb0GZlENk5aM6NbGYe3WEL0tovPUmKz8HF5oiwP4/edit?usp=sharing)
-- [Meeting URL](https://meet.google.com/dja-zkxc-cka)
-
-## Team members
-* Aleksandrs Bogackins
-* James Richardson
-* Yoan Markov
-* Navjit Singh
+[RunningSchedullerApp](../experimental/RunningSchedullerApp) contains some notes and scripts for running intial investigations into the Java scheduller app
