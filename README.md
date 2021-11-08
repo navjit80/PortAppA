@@ -1,3 +1,5 @@
+![Team Port Application A – Logo](https://user-images.githubusercontent.com/43637240/140811424-dbdb20cd-05e0-41bc-adbc-46bcbc8127b8.png)
+
 # Port Application A
 
 ## Table of Contents
